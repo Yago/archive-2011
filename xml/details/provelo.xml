@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	
+	<!-- FILE SETTINGS -->
+	<settings>
+		<zoomPanning>true</zoomPanning>
+		<fullSize>false</fullSize>
+	</settings>
+	
+	<!-- FILE -->
+	<file>
+		<source>assets/image/large/provelo.jpg</source>
+		<description><![CDATA[<span class="blu">Maquette réalisée lors d'un travail d'analyse de sites existants.</span>]]></description>
+		<purchaseLink target="_blank"></purchaseLink>
+	</file>
+	
+</data>

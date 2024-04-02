@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	
+	<!-- FILE SETTINGS -->
+	<settings>
+		<zoomPanning>true</zoomPanning>
+		<fullSize>false</fullSize>
+	</settings>
+	
+	<!-- FILE -->
+	<file>
+		<source>assets/image/large/affiche.jpg</source>
+		<description><![CDATA[<span class="blu">Mandat eikon fictif : Affiche publicitaire pour le label COX (Matte Painting).</span>]]></description>
+		<purchaseLink target="_blank"></purchaseLink>
+	</file>
+	
+</data>

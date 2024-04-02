@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+
+	<!-- SETTINGS -->
+	<settings>
+		
+		<!-- WALL SETTINGS -->
+		<wall3D>
+			<numRows>1</numRows>
+			<initRotationY>60</initRotationY>
+			<rotationOffsetX>0</rotationOffsetX>
+			<rotationOffsetY>0</rotationOffsetY>
+			<rotationOffsetZ>0</rotationOffsetZ>
+			<offsetX>0</offsetX>
+			<offsetY>0</offsetY>
+			<offsetZ>100</offsetZ>
+			<autoPlay>false</autoPlay>
+			<jumpNumColumns>1</jumpNumColumns>
+			<ghostItems>0</ghostItems>
+		</wall3D>
+		
+		<!-- THUMBNAIL SETTINGS -->
+		<thumb3D>
+			<maxWidth>132</maxWidth>
+			<maxHeight>100</maxHeight>
+			<border>2</border>
+			<backColor>0xFFFFFF</backColor>
+			<spacingX>16</spacingX>
+			<spacingY>16</spacingY>
+			<showFileTypeIcon>true</showFileTypeIcon>
+		</thumb3D>
+		
+		<!-- REFLECTIONS SETTINGS -->
+		<reflections>
+			<visible>true</visible>
+			<alpha>0.3</alpha>
+			<distance>2</distance>
+			<dropOff>1</dropOff>
+			<blurX>0</blurX>
+			<blurY>0</blurY>
+		</reflections>
+		
+	</settings>
+	
+	<!-- WALL ITEMS -->
+	<items>
+		
+		<!-- ITEM -->
+		<item>
+			<type>image</type><!--type : flash/video/image/audio-->
+			<title><![CDATA[Exercice typographique]]></title><!--titre-->
+			<thumbnail>assets/image/thumbnails/simulacre.jpg</thumbnail><!--miniature-->
+			<tooltip><![CDATA[<span class="blu">Exercice typographique</span><br>]]></tooltip><!--infobulle-->
+			<details>xml/details/simulacre.xml</details><!--légende-->
+			<purchase>false</purchase><!--link-->
+			<download>false</download><!--DL?-->
+		</item>
+		
+		<item>
+			<type>image</type><!--type : flash/video/image/audio-->
+			<title><![CDATA[Logo Yamazaki]]></title><!--titre-->
+			<thumbnail>assets/image/thumbnails/yamazaki.jpg</thumbnail><!--miniature-->
+			<tooltip><![CDATA[<span class="blu">Logo Yamazaki</span><br>]]></tooltip><!--infobulle-->
+			<details>xml/details/yamazaki.xml</details><!--légende-->
+			<purchase>false</purchase><!--link-->
+			<download>false</download><!--DL?-->
+		</item>
+		
+		<item>
+			<type>image</type><!--type : flash/video/image/audio-->
+			<title><![CDATA[Rock'n'Cox]]></title><!--titre-->
+			<thumbnail>assets/image/thumbnails/compil.jpg</thumbnail><!--miniature-->
+			<tooltip><![CDATA[<span class="blu">Rock'n'Cox</span><br>]]></tooltip><!--infobulle-->
+			<details>xml/details/compil.xml</details><!--légende-->
+			<purchase>false</purchase><!--link-->
+			<download>false</download><!--DL?-->
+		</item>
+		
+		<item>
+			<type>image</type><!--type : flash/video/image/audio-->
+			<title><![CDATA[Affiche Cox]]></title><!--titre-->
+			<thumbnail>assets/image/thumbnails/affiche.jpg</thumbnail><!--miniature-->
+			<tooltip><![CDATA[<span class="blu">Affiche Cox</span><br>]]></tooltip><!--infobulle-->
+			<details>xml/details/affiche.xml</details><!--légende-->
+			<purchase>false</purchase><!--link-->
+			<download>false</download><!--DL?-->
+		</item>
+		
+		<item>
+			<type>image</type><!--type : flash/video/image/audio-->
+			<title><![CDATA[Bad Attitude]]></title><!--titre-->
+			<thumbnail>assets/image/thumbnails/bad.jpg</thumbnail><!--miniature-->
+			<tooltip><![CDATA[<span class="blu">Bad Attitude</span><br>]]></tooltip><!--infobulle-->
+			<details>xml/details/bad.xml</details><!--légende-->
+			<purchase>false</purchase><!--link-->
+			<download>false</download><!--DL?-->
+		</item>
+		
+		<item>
+			<type>image</type><!--type : flash/video/image/audio-->
+			<title><![CDATA[Porte]]></title><!--titre-->
+			<thumbnail>assets/image/thumbnails/entry.jpg</thumbnail><!--miniature-->
+			<tooltip><![CDATA[<span class="blu">Vieille porte</span><br>]]></tooltip><!--infobulle-->
+			<details>xml/details/entry.xml</details><!--légende-->
+			<purchase>false</purchase><!--link-->
+			<download>false</download><!--DL?-->
+		</item>
+		
+		<item>
+			<type>image</type><!--type : flash/video/image/audio-->
+			<title><![CDATA[Petit Panda]]></title><!--titre-->
+			<thumbnail>assets/image/thumbnails/panda.jpg</thumbnail><!--miniature-->
+			<tooltip><![CDATA[<span class="blu">Petit Panda</span><br>]]></tooltip><!--infobulle-->
+			<details>xml/details/panda.xml</details><!--légende-->
+			<purchase>false</purchase><!--link-->
+			<download>false</download><!--DL?-->
+		</item>
+		
+		<item>
+			<type>image</type><!--type : flash/video/image/audio-->
+			<title><![CDATA[Dent Blanche]]></title><!--titre-->
+			<thumbnail>assets/image/thumbnails/lightRay.jpg</thumbnail><!--miniature-->
+			<tooltip><![CDATA[<span class="blu">Dent Blanche</span><br>]]></tooltip><!--infobulle-->
+			<details>xml/details/lightRay.xml</details><!--légende-->
+			<purchase>false</purchase><!--link-->
+			<download>false</download><!--DL?-->
+		</item>
+		
+		<item>
+			<type>image</type><!--type : flash/video/image/audio-->
+			<title><![CDATA[Pas de Lona]]></title><!--titre-->
+			<thumbnail>assets/image/thumbnails/lona.jpg</thumbnail><!--miniature-->
+			<tooltip><![CDATA[<span class="blu">Pas de Lona</span><br>]]></tooltip><!--infobulle-->
+			<details>xml/details/lona.xml</details><!--légende-->
+			<purchase>false</purchase><!--link-->
+			<download>false</download><!--DL?-->
+		</item>
+		<item>
+			<type>image</type><!--type : flash/video/image/audio-->
+			<title><![CDATA[Breizh]]></title><!--titre-->
+			<thumbnail>assets/image/thumbnails/breizh.jpg</thumbnail><!--miniature-->
+			<tooltip><![CDATA[<span class="blu">Breizh</span><br>]]></tooltip><!--infobulle-->
+			<details>xml/details/breizh.xml</details><!--légende-->
+			<purchase>false</purchase><!--link-->
+			<download>false</download><!--DL?-->
+		</item>
+		<item>
+			<type>image</type><!--type : flash/video/image/audio-->
+			<title><![CDATA[Granit Rose]]></title><!--titre-->
+			<thumbnail>assets/image/thumbnails/redGranit.jpg</thumbnail><!--miniature-->
+			<tooltip><![CDATA[<span class="blu">Granit Rose</span><br>]]></tooltip><!--infobulle-->
+			<details>xml/details/redGranit.xml</details><!--légende-->
+			<purchase>false</purchase><!--link-->
+			<download>false</download><!--DL?-->
+		</item>
+		<item>
+			<type>image</type><!--type : flash/video/image/audio-->
+			<title><![CDATA[Quiberon 01]]></title><!--titre-->
+			<thumbnail>assets/image/thumbnails/pano01.jpg</thumbnail><!--miniature-->
+			<tooltip><![CDATA[<span class="blu">Quiberon 01</span><br>]]></tooltip><!--infobulle-->
+			<details>xml/details/pano01.xml</details><!--légende-->
+			<purchase>false</purchase><!--link-->
+			<download>false</download><!--DL?-->
+		</item>
+		<item>
+			<type>image</type><!--type : flash/video/image/audio-->
+			<title><![CDATA[Quiberon 02]]></title><!--titre-->
+			<thumbnail>assets/image/thumbnails/pano02.jpg</thumbnail><!--miniature-->
+			<tooltip><![CDATA[<span class="blu">Quiberon 02</span><br>]]></tooltip><!--infobulle-->
+			<details>xml/details/pano02.xml</details><!--légende-->
+			<purchase>false</purchase><!--link-->
+			<download>false</download><!--DL?-->
+		</item>
+		
+		
+	</items>
+	
+</data>

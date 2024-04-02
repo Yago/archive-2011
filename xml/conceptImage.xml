@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+
+	<!-- SETTINGS -->
+	<settings>
+		
+		<!-- WALL SETTINGS -->
+		<wall3D>
+			<numRows>1</numRows>
+			<initRotationY>55</initRotationY>
+			<rotationOffsetX>0</rotationOffsetX>
+			<rotationOffsetY>0</rotationOffsetY>
+			<rotationOffsetZ>0</rotationOffsetZ>
+			<offsetX>0</offsetX>
+			<offsetY>0</offsetY>
+			<offsetZ>0</offsetZ>
+			<autoPlay>false</autoPlay>
+			<jumpNumColumns>1</jumpNumColumns>
+			<ghostItems>0</ghostItems>
+		</wall3D>
+		
+		<!-- THUMBNAIL SETTINGS -->
+		<thumb3D>
+			<maxWidth>132</maxWidth>
+			<maxHeight>100</maxHeight>
+			<border>2</border>
+			<backColor>0xFFFFFF</backColor>
+			<spacingX>16</spacingX>
+			<spacingY>16</spacingY>
+			<showFileTypeIcon>true</showFileTypeIcon>
+		</thumb3D>
+		
+		<!-- REFLECTIONS SETTINGS -->
+		<reflections>
+			<visible>true</visible>
+			<alpha>0.3</alpha>
+			<distance>1.5</distance>
+			<dropOff>1</dropOff>
+			<blurX>0</blurX>
+			<blurY>0</blurY>
+		</reflections>
+		
+	</settings>
+	
+	<!-- WALL ITEMS -->
+	<items>
+		
+		<!-- ITEM -->
+		<item>
+			<type>image</type><!--type : flash/video/image/audio-->
+			<title><![CDATA[Arbre]]></title><!--titre-->
+			<thumbnail>assets/image/thumbnails/arbre.jpg</thumbnail><!--miniature-->
+			<tooltip><![CDATA[<span class="blu">Arbre</span><br>]]></tooltip><!--infobulle-->
+			<details>xml/details/arbre.xml</details><!--légende-->
+			<purchase>false</purchase><!--link-->
+			<download>false</download><!--DL?-->
+		</item>
+		
+		
+		<!-- ITEM -->
+		<item>
+			<type>image</type><!--type : flash/video/image/audio-->
+			<title><![CDATA[La croisée des chemins]]></title><!--titre-->
+			<thumbnail>assets/image/thumbnails/croisee.jpg</thumbnail><!--miniature-->
+			<tooltip><![CDATA[<span class="blu">La croisée des chemins</span><br>]]></tooltip><!--infobulle-->
+			<details>xml/details/croisee.xml</details><!--légende-->
+			<purchase>false</purchase><!--link-->
+			<download>false</download><!--DL?-->
+		</item>
+		<!-- ITEM -->
+		<item>
+			<type>image</type><!--type : flash/video/image/audio-->
+			<title><![CDATA[Skull]]></title><!--titre-->
+			<thumbnail>assets/image/thumbnails/skull.jpg</thumbnail><!--miniature-->
+			<tooltip><![CDATA[<span class="blu">Skull</span><br>]]></tooltip><!--infobulle-->
+			<details>xml/details/skull.xml</details><!--légende-->
+			<purchase>false</purchase><!--link-->
+			<download>false</download><!--DL?-->
+		</item>
+		<!-- ITEM -->
+		<item>
+			<type>image</type><!--type : flash/video/image/audio-->
+			<title><![CDATA[Skyland]]></title><!--titre-->
+			<thumbnail>assets/image/thumbnails/skyland.jpg</thumbnail><!--miniature-->
+			<tooltip><![CDATA[<span class="blu">Skyland</span><br>]]></tooltip><!--infobulle-->
+			<details>xml/details/skyland.xml</details><!--légende-->
+			<purchase>false</purchase><!--link-->
+			<download>false</download><!--DL?-->
+		</item>
+		<!-- ITEM -->
+		<item>
+			<type>image</type><!--type : flash/video/image/audio-->
+			<title><![CDATA[Vallée de montagne]]></title><!--titre-->
+			<thumbnail>assets/image/thumbnails/vallee.jpg</thumbnail><!--miniature-->
+			<tooltip><![CDATA[<span class="blu">Vallée de montagne</span><br>]]></tooltip><!--infobulle-->
+			<details>xml/details/vallee.xml</details><!--légende-->
+			<purchase>false</purchase><!--link-->
+			<download>false</download><!--DL?-->
+		</item>
+		<!-- ITEM -->
+		<item>
+			<type>image</type><!--type : flash/video/image/audio-->
+			<title><![CDATA[Duel]]></title><!--titre-->
+			<thumbnail>assets/image/thumbnails/duel.jpg</thumbnail><!--miniature-->
+			<tooltip><![CDATA[<span class="blu">Duel</span><br>]]></tooltip><!--infobulle-->
+			<details>xml/details/duel.xml</details><!--légende-->
+			<purchase>false</purchase><!--link-->
+			<download>false</download><!--DL?-->
+		</item>
+		<!-- ITEM -->
+		<item>
+			<type>image</type><!--type : flash/video/image/audio-->
+			<title><![CDATA[College]]></title><!--titre-->
+			<thumbnail>assets/image/thumbnails/college.jpg</thumbnail><!--miniature-->
+			<tooltip><![CDATA[<span class="blu">College</span><br>]]></tooltip><!--infobulle-->
+			<details>xml/details/college.xml</details><!--légende-->
+			<purchase>false</purchase><!--link-->
+			<download>false</download><!--DL?-->
+		</item>
+		<!-- ITEM -->
+		<item>
+			<type>image</type><!--type : flash/video/image/audio-->
+			<title><![CDATA[Méridia]]></title><!--titre-->
+			<thumbnail>assets/image/thumbnails/meridia.jpg</thumbnail><!--miniature-->
+			<tooltip><![CDATA[<span class="blu">Méridia</span><br>]]></tooltip><!--infobulle-->
+			<details>xml/details/meridia.xml</details><!--légende-->
+			<purchase>false</purchase><!--link-->
+			<download>false</download><!--DL?-->
+		</item>
+		<!-- ITEM -->
+		<item>
+			<type>image</type><!--type : flash/video/image/audio-->
+			<title><![CDATA[Gunshin]]></title><!--titre-->
+			<thumbnail>assets/image/thumbnails/gunshin.jpg</thumbnail><!--miniature-->
+			<tooltip><![CDATA[<span class="blu">Gunshin</span><br>]]></tooltip><!--infobulle-->
+			<details>xml/details/gunshin.xml</details><!--légende-->
+			<purchase>false</purchase><!--link-->
+			<download>false</download><!--DL?-->
+		</item>
+		<!-- ITEM -->
+		<item>
+			<type>image</type><!--type : flash/video/image/audio-->
+			<title><![CDATA[Temple]]></title><!--titre-->
+			<thumbnail>assets/image/thumbnails/temple.jpg</thumbnail><!--miniature-->
+			<tooltip><![CDATA[<span class="blu">Temple</span><br>]]></tooltip><!--infobulle-->
+			<details>xml/details/temple.xml</details><!--légende-->
+			<purchase>false</purchase><!--link-->
+			<download>false</download><!--DL?-->
+		</item>
+		<!-- ITEM -->
+		<item>
+			<type>image</type><!--type : flash/video/image/audio-->
+			<title><![CDATA[Building conceptuel]]></title><!--titre-->
+			<thumbnail>assets/image/thumbnails/building3D.jpg</thumbnail><!--miniature-->
+			<tooltip><![CDATA[<span class="blu">building conceptuel</span><br>]]></tooltip><!--infobulle-->
+			<details>xml/details/building3D.xml</details><!--légende-->
+			<purchase>false</purchase><!--link-->
+			<download>false</download><!--DL?-->
+		</item>
+		<!-- ITEM -->
+		<item>
+			<type>image</type><!--type : flash/video/image/audio-->
+			<title><![CDATA[Scorpion]]></title><!--titre-->
+			<thumbnail>assets/image/thumbnails/scorpionOcclusion.jpg</thumbnail><!--miniature-->
+			<tooltip><![CDATA[<span class="blu">Scorpion</span><br>Modélisation]]></tooltip><!--infobulle-->
+			<details>xml/details/scorpionOcclusion.xml</details><!--légende-->
+			<purchase>false</purchase><!--link-->
+			<download>false</download><!--DL?-->
+		</item>
+		<!-- ITEM -->
+		<item>
+			<type>image</type><!--type : flash/video/image/audio-->
+			<title><![CDATA[Scorpion]]></title><!--titre-->
+			<thumbnail>assets/image/thumbnails/scorpionTexture.jpg</thumbnail><!--miniature-->
+			<tooltip><![CDATA[<span class="blu">Scorpion</span><br>Texturing]]></tooltip><!--infobulle-->
+			<details>xml/details/scorpionTexture.xml</details><!--légende-->
+			<purchase>false</purchase><!--link-->
+			<download>false</download><!--DL?-->
+		</item>
+		
+		
+	</items>
+	
+</data>

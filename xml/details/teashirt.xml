@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	
+	<!-- FILE SETTINGS -->
+	<settings>
+		<zoomPanning>true</zoomPanning>
+		<fullSize>false</fullSize>
+	</settings>
+	
+	<!-- FILE -->
+	<file>
+		<source>assets/image/large/teashirt.jpg</source>
+		<description><![CDATA[<span class="blu">Maquette réalisée pour le travail de fin de semestre avec comme consigne de faire un site de vente de T-shirt jeune et décalé.</span>]]></description>
+		<purchaseLink target="_blank"></purchaseLink>
+	</file>
+	
+</data>

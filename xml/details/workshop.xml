@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	
+	<!-- FILE SETTINGS -->
+	<settings>
+		<autoPlay>true</autoPlay>
+		<repeat>false</repeat>
+		<volume>0.7</volume>
+		<buffer>1</buffer>
+	</settings>
+	
+	<!-- FILE -->
+	<file>
+		<source>assets/video/workshop.flv</source>
+		<description><![CDATA[<span class="blu">Clip réalisé lors du Workshop AE de deuxième année.</span>]]></description>
+		<purchaseLink target="_blank">http://www.google.com/</purchaseLink>
+	</file>
+	
+</data>

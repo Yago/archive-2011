@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	
+	<!-- FILE SETTINGS -->
+	<settings>
+		<zoomPanning>true</zoomPanning>
+		<fullSize>false</fullSize>
+	</settings>
+	
+	<!-- FILE -->
+	<file>
+		<source>assets/image/large/gunshin.jpg</source>
+		<description><![CDATA[<span class="blu">Planche de la bataille de Sekigahara, réalisé dans le cadre de mon travail de maturité.</span>]]></description>
+		<purchaseLink target="_blank"></purchaseLink>
+	</file>
+	
+</data>

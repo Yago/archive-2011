@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+
+	<!-- SETTINGS -->
+	<settings>
+		
+		<!-- WALL SETTINGS -->
+		<wall3D>
+			<numRows>1</numRows>
+			<initRotationY>28</initRotationY>
+			<rotationOffsetX>0</rotationOffsetX>
+			<rotationOffsetY>0</rotationOffsetY>
+			<rotationOffsetZ>0</rotationOffsetZ>
+			<offsetX>0</offsetX>
+			<offsetY>0</offsetY>
+			<offsetZ>0</offsetZ>
+			<autoPlay>false</autoPlay>
+			<jumpNumColumns>1</jumpNumColumns>
+			<ghostItems>10</ghostItems>
+		</wall3D>
+		
+		<!-- THUMBNAIL SETTINGS -->
+		<thumb3D>
+			<maxWidth>220</maxWidth>
+			<maxHeight>170</maxHeight>
+			<border>2</border>
+			<backColor>0xFFFFFF</backColor>
+			<spacingX>16</spacingX>
+			<spacingY>16</spacingY>
+			<showFileTypeIcon>true</showFileTypeIcon>
+		</thumb3D>
+		
+		<!-- REFLECTIONS SETTINGS -->
+		<reflections>
+			<visible>true</visible>
+			<alpha>0.3</alpha>
+			<distance>2</distance>
+			<dropOff>1</dropOff>
+			<blurX>0</blurX>
+			<blurY>0</blurY>
+		</reflections>
+		
+	</settings>
+	
+	<!-- WALL ITEMS -->
+	<items>
+		
+		<!-- ITEM -->
+		<item>
+			<type>image</type><!--type : flash/video/image/audio-->
+			<title><![CDATA[Teashirt]]></title><!--titre-->
+			<thumbnail>assets/image/thumbnails/teashirt.jpg</thumbnail><!--miniature-->
+			<tooltip><![CDATA[<span class="blu">Teashirt</span><br>]]></tooltip><!--infobulle-->
+			<details>xml/details/teashirt.xml</details><!--légende-->
+			<purchase>true</purchase><!--link-->
+			<download>false</download><!--DL?-->
+		</item>
+		<item>
+			<type>image</type><!--type : flash/video/image/audio-->
+			<title><![CDATA[Tuts&Games]]></title><!--titre-->
+			<thumbnail>assets/image/thumbnails/tuts.jpg</thumbnail><!--miniature-->
+			<tooltip><![CDATA[<span class="blu">Tuts&Games</span><br>]]></tooltip><!--infobulle-->
+			<details>xml/details/tuts.xml</details><!--légende-->
+			<purchase>true</purchase><!--link-->
+			<download>false</download><!--DL?-->
+		</item>
+		<item>
+			<type>image</type><!--type : flash/video/image/audio-->
+			<title><![CDATA[Pro Vélo]]></title><!--titre-->
+			<thumbnail>assets/image/thumbnails/provelo.jpg</thumbnail><!--miniature-->
+			<tooltip><![CDATA[<span class="blu">Pro Vélo</span><br>]]></tooltip><!--infobulle-->
+			<details>xml/details/provelo.xml</details><!--légende-->
+			<purchase>true</purchase><!--link-->
+			<download>false</download><!--DL?-->
+		</item>
+	
+	
+	
+		
+	</items>
+	
+</data>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	
+	<!-- FILE SETTINGS -->
+	<settings>
+		<autoPlay>true</autoPlay>
+		<repeat>false</repeat>
+		<volume>0.7</volume>
+		<buffer>1</buffer>
+	</settings>
+	
+	<!-- FILE -->
+	<file>
+		<source>assets/video/ophidien.flv</source>
+		<description><![CDATA[<span class="blu">Vidéo réalisée dans le cadre du cours de vidéo sur le thème de l'animal de compagnie.</span>]]></description>
+		<purchaseLink target="_blank"></purchaseLink>
+	</file>
+	
+</data>
